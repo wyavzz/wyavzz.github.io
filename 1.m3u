@@ -298,6 +298,20 @@ https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&
 https://stream.iptv-search.com/main.php?id=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE&t=1753977057&token=0434b979ad4e606265b4174a06227da2
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="TVB Entertainment" tvg-logo="https://live.fanmingming.cn/tv/TVB Entertainment.png" group-title="港澳台",TVB Entertainment
+https://stream.iptv-search.com/main.php?id=TVB+Entertainment&t=1753977057&token=17f4f33a4df23e0fad0010fba40c9d07
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.cn/tv/TVB PLUS.png" group-title="港澳台",TVB PLUS
+https://stream.iptv-search.com/main.php?id=TVB+Plus&t=1753977057&token=dea831adb2ab5aea7c76a5f1f0bfa490
+#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://live.fanmingming.cn/tv/TVBS欢乐.png" group-title="港澳台",TVBS欢乐
+https://stream.iptv-search.com/main.php?id=TVBS&t=1753977057&token=5fd64670a251ae2c9c2a4a3f03b9e396
+#EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://live.fanmingming.cn/tv/TVBS亚洲.png" group-title="港澳台",TVBS亚洲
+https://stream.iptv-search.com/main.php?id=TVBS%E4%BA%9A%E6%B4%B2&t=1753977057&token=ee5bab212ea5d68275cdc712cd4e45d9
+#EXTINF:-1 tvg-name="TVBS News" tvg-logo="https://live.fanmingming.cn/tv/TVBS News.png" group-title="港澳台",TVBS News
+https://stream.iptv-search.com/main.php?id=TVBS+News&t=1753977057&token=ca46628cbd309bd4d720e8f10dd462d5
+#EXTINF:-1 tvg-name="TVB无线星河" tvg-logo="https://live.fanmingming.cn/tv/TVB无线星河.png" group-title="港澳台",TVB无线星河
+https://stream.iptv-search.com/main.php?id=TVB%E6%97%A0%E7%BA%BF%E6%98%9F%E6%B2%B3&t=1753977057&token=219ae49de993862d7998a122b749d0c4
+#EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://live.fanmingming.cn/tv/TVB娱乐新闻.png" group-title="港澳台",TVB娱乐新闻
+https://stream.iptv-search.com/main.php?id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0&t=1753977057&token=471de8340b3cb4772b132277e2496cc6
 
 #EXTINF:-1 tvg-name="安多卫视" tvg-id="安多卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="地方频道", 安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
